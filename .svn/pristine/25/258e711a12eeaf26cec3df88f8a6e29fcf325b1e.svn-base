@@ -1,0 +1,17 @@
+{
+  "name": "blogsss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-plugin-font-awesome": "^1.90.6",
+    "zico": "^1.5.01"
+  }
+}
